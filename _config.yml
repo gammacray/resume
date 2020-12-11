@@ -90,12 +90,12 @@ content:
       - layout: right
         title: Boat Building
         sub_title: Self-employed/contract/freelance
-        caption: 2005 - present
+        caption: 2009 - present
         link: 
         quote: 
         description: | # this will include new lines to allow paragraphs
           * 3 year apprenticeship under catamaran designer Richard Woods
-          * 12 years contracting, fabrication and repair all over western Canada
+          * 9 years contracting, custom fabrication and repair all over western Canada
           * Build and refit sailboats, yachts, work boats, research vessels
           * Hire crews as needed, deal with all aspects of business
   - title: Volunteering
@@ -112,19 +112,20 @@ content:
           * Maintain FoodSafe protocols and practices
           * Routine maintenance and repairs
 
+
       - layout: right
         title: AYNI Peru
         sub_title: ESL Teacher/Care Aide
         caption: 2002 - 2003
         quote:  
         description: | # this will include new lines to allow paragraphs
-          * Daily lesson planning for grades 2 thru 5
+          * Daily lesson planning for grades 2 - 5
           * Work with staff and clients of inpatient care home
           * Distribute donations and organize international channels for same
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I spend my downtime surfing, playing chess, and walking the beautiful forests and trails of Vancouver Island. I'm passionate about learning, healthy living, the environment, and social issues. I believe a better world is possible and I'm extremely happy to be here to see it unfold.
+      I spend my downtime surfing, playing chess, and walking the beautiful forests and trails of Vancouver Island with my dog. I'm passionate about learning, healthy living, the environment, and social issues. I believe a better world is possible and I'm extremely happy to be here to see it unfold.
 
 # Footer
 footer_show_references: false
