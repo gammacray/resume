@@ -30,7 +30,7 @@
         {%- if site.github_username -%}
           <li>
             <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-              <i class="fab fa-github" title="Github link"></i>
+              <i class="fab fa-github" title="Github"></i>
             </a>
           </li>
         {%- endif -%}
@@ -72,7 +72,7 @@
         {%- if site.twitter_username -%}
           <li>
             <a target="_blank" href="https://twitter.com/{{ site.twitter_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
-              <i class="fab fa-twitter" title="Twitter link"></i>
+              <i class="fab fa-twitter" title="Twitter"></i>
             </a>
           </li>
         {%- endif -%}
@@ -108,7 +108,7 @@
 
       {%- if site.email -%}
         <p>
-          {{ site.email_title | default: "Email" }}: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+          {{ site.email_title | default: "" }} <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
       {%- if site.phone -%}
@@ -118,7 +118,7 @@
       {%- endif -%}
       {%- if site.website -%}
         <p>
-          {{ site.website_title | default: "Web" }}: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+          {{ site.website_title | default: "" }} {% include a.html href=site.website %}{{ site.website | escape }}</a>
         </p>
       {%- endif -%}
     </div>
