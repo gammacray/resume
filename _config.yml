@@ -53,16 +53,16 @@ about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  I'm making the jump from 20 years in trades to an online skillset and a healthier lifestyle. I'm incredibly fond of static site generators and I'm having a blast learning frontend web design. It's a lot like building sailboats - pulling lines out of thin air and making them real with any tool available, many of them improvised or built specifically for the task.
+  Hello! In 2021 I'm making the jump from 20 years in trades to an online skillset and a healthier lifestyle. I'm incredibly fond of working with people from around the world, from all walks of life. I thrive on discovering the goals of others and finding ways to get them there. It's a lot like building sailboats - pulling lines out of thin air and making them real with any tool available, many of them improvised or built specifically for the task.
 
   I bring wisdom and experience from multiple fields including; 
-  * tiny-home construction
-  * semi-professional musician
-  * kitchen work 
-  * boat building
-  * managing several meditation centers 
-  * permaculture farming
-  * teaching ESL abroad
+  * Sailboat building and repair
+  * Tiny-home construction
+  * Semi-professional musician
+  * Kitchen work 
+  * Managing several meditation centers 
+  * Permaculture farming
+  * Teaching ESL abroad
 
 
 content:
@@ -84,7 +84,22 @@ content:
   #        Short overview of the project (optional)
   #      description: | # this will include new lines to allow paragraphs
   #        Description about the work on/with the project
-  - title: Experience
+  - title: Shopify Journey
+    layout: list
+    content:
+      - layout: right
+        title: Contract 3 of JSA Program
+        sub_title: Junior Support Advisor
+        caption: February 2021 - Present
+        link: 
+        quote: 
+        description: | # this will include new lines to allow paragraphs
+          * 3 year apprenticeship under catamaran designer Richard Woods
+          * 9 years contracting, custom fabrication and repair all over western Canada
+          * Build and refit sailboats, yachts, work boats, research vessels
+          * Hire crews as needed, deal with all aspects of business
+          * Completed projects all over western Canada and beyond
+  - title: Trades Experience
     layout: list
     content:
       - layout: right
@@ -98,6 +113,7 @@ content:
           * 9 years contracting, custom fabrication and repair all over western Canada
           * Build and refit sailboats, yachts, work boats, research vessels
           * Hire crews as needed, deal with all aspects of business
+          * Completed projects all over western Canada and beyond
   - title: Volunteering
     layout: list
     content:
