@@ -124,7 +124,7 @@ content:
   - title: Volunteering
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Vipassana Meditation Centers - Canada & US
         sub_title: Kitchen Co-ordinator/Manager
         caption: 2005 - 2015 (intermittent)
