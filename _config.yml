@@ -94,12 +94,13 @@ content:
         link: 
         quote: <h4>My lead will (hopefully!) say;</h4>
         description: | # this will include new lines to allow paragraphs
-          * I keep my cool in tough interactions, and followup with advocacy and empathy
+          * I keep my cool in tough interactions and followup with advocacy and empathy
           * I question process *a lot* and enjoy doing it
           * I show up for my team and connect 1-on-1 with courage and honesty
           * I reflect on my work, growth, energy levels and mistakes like a boss
           * I thrive helping the underdog
           * Challenges don't scare me
+          * I stay on task under fairly extreme conditions
   - title: Trades Experience
     layout: list
     content:
@@ -142,7 +143,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I spend my downtime surfing, hunting mushrooms, playing chess, and walking the beautiful forests and trails of the Kootenays with my dog. I'm passionate about learning, healthy living, the environment, and social issues. I believe a better world is possible and I'm extremely happy to be here to see it unfold. I have a certificate in **Mental Health First-Aid**, I've hitchiked most of North-America, I've done stand-up comedy, and I love writing elevator pitches with a fourth-wall break at the end. 
+      I spend my downtime surfing, picking wild mushrooms, playing chess, and walking the beautiful forests and trails of the Kootenays with my dog. I'm passionate about learning, healthy living, the environment, and social issues. I believe a better world is possible and I'm extremely happy to be here to see it unfold. I have a certificate in **Mental Health First-Aid**, I've hitchhiked most of North-America, I've done stand-up comedy, and I love writing elevator pitches with a fourth-wall break at the end. 
 
 # Footer
 footer_show_references: false
