@@ -92,8 +92,8 @@ content:
         sub_title: Junior Support Advisor
         caption: February 2021 - Present
         link: 
-        quote: 
-        description: | What my lead will say about me;
+        quote: What my lead will say about me;
+        description: | # this will include new lines to allow paragraphs
           * 3 year apprenticeship under catamaran designer Richard Woods
           * 9 years contracting, custom fabrication and repair all over western Canada
           * Build and refit sailboats, yachts, work boats, research vessels
