@@ -142,9 +142,9 @@ content:
         caption: 2002 - 2003
         quote:  
         description: | # this will include new lines to allow paragraphs
-          * Daily lesson planning for grades 2 - 5
-          * Work with staff and clients of inpatient care home
-          * Distribute donations and organize international channels for same
+                    * Daily lesson planning for grades 2 - 5
+                    * Work with staff and clients of inpatient care home
+                    * Distribute donations and organize international channels for same
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
