@@ -124,7 +124,7 @@ content:
   - title: Volunteering
     layout: list
     content:
-      - layout: center
+      - layout: right
         title: Vipassana Meditation Centers - Canada & US
         sub_title: Kitchen Co-ordinator/Manager
         caption: 2005 - 2015 (intermittent)
@@ -136,7 +136,7 @@ content:
           * Routine maintenance and repairs
 
 
-      - layout: center
+      - layout: right
         title: AYNI Peru
         sub_title: ESL Teacher/Care Aide
         caption: 2002 - 2003
