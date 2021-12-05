@@ -53,18 +53,16 @@ about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hello! In 2021 I'm making the jump from 20 years in trades to an online skillset and a healthier lifestyle. I'm incredibly fond of working with people from around the world, from all walks of life. I thrive on discovering the goals of others and finding ways to get them there. It's a lot like building sailboats - pulling lines out of thin air and making them real with any tool available, many of them improvised or built specifically for the task. On a similar level I'd like to humblebrag that this CV was composed with a template which uses a combination of Markdown, YAML, and Liquid template languages before being converted to PDF - just because it's possible!
+  Hello! In 2021 I'm making the jump from 20 years in trades to an online skillset and a healthier lifestyle. I'm incredibly fond of working with people from around the world, from all walks of life. I thrive on discovering the goals of others and finding ways to get them there. It's a lot like building sailboats - pulling lines out of thin air and making them real with any tool available, many of them improvised or built specifically for the task. On a similar level I'd like to humblebrag that this CV was composed with a template which uses a combination of Markdown, YAML, and Liquid languages before being converted to PDF - just because it's possible!
 
   I bring wisdom and experience from multiple fields including;
   * Freelance writing and website design
   * Sailboat building and repair
   * Tiny-home construction
   * Semi-professional musician
-  * Kitchen work 
   * Managing several meditation centers 
   * Permaculture farming
   * Teaching ESL abroad
-  * ... and so much more
 
 
 content:
@@ -86,25 +84,36 @@ content:
   #        Short overview of the project (optional)
   #      description: | # this will include new lines to allow paragraphs
   #        Description about the work on/with the project
-  - title: Shopify Journey
+  - title: Shopify Core Support
     layout: list
     content:
       - layout: right
-        title: Contract 3 of JSA
-        sub_title: Junior Support Advisor
-        caption: February 2021 - Present
+        title: Permanent Full-time
+        sub_title: Support Advisor
+        caption: December 2021 - present
         link: 
-        quote: <h4>I believe my lead will say;</h4>
+        quote: <h4>Where I see myself going in the company;</h4>
         description: | # this will include new lines to allow paragraphs
-          * I stay cool and self-aware in tough situations and followup with advocacy and empathy
+          * A team that works with tricky issues and specialized tools
+          * A role that thrives on improvising and blazing trail
+          * A team that embraces diversity
+  - title: Shopify JSA Program
+    layout: list
+    content:
+      - layout: right
+        title: Nine Months of Gauntlet
+        sub_title: Junior Support Advisor
+        caption: February - November 2021
+        link: 
+        quote: <h4>I believe my (JSA) lead will say;</h4>
+        description: | # this will include new lines to allow paragraphs
+          * I'm self-aware and empathetic
           * I question process *a lot* and enjoy doing it
           * I show up for my team and connect 1-on-1 with courage and honesty
           * I reflect deeply on my work, growth, energy levels and opportunities
-          * I thrive helping the underdog
-          * Challenges don't scare me
-          * I manage my time and projects very well
+          * I manage my time and projects well
           * I keep my values up front and find meaning in my work
-          * I make mistakes! And I own them.
+          * I make mistakes! (and own them)
   - title: Trades Experience
     layout: list
     content:
@@ -119,7 +128,6 @@ content:
           * 9 years contracting, custom fabrication and repair all over western Canada
           * Build and refit sailboats, yachts, work boats, research vessels
           * Hire crews as needed, deal with all aspects of business
-          * Completed projects all over western Canada and beyond
   - title: Volunteering
     layout: list
     content:
