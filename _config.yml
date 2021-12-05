@@ -53,7 +53,7 @@ about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hello! In 2021 I'm making the jump from 20 years in trades to an online skillset and a healthier lifestyle. I'm incredibly fond of working with people from around the world, from all walks of life. I thrive on discovering the goals of others and finding ways to get them there. It's a lot like building sailboats - pulling lines out of thin air and making them real with any tool available, many of them improvised or built specifically for the task. On a similar level I'd like to humblebrag that this CV was composed with a template which uses a combination of Markdown, YAML, and Liquid languages before being converted to PDF - just because it's possible!
+  Hello! In 2021 I've made the jump from trades to a digital skillset and a healthier lifestyle. I'm incredibly fond of working with people from around the world, from all walks of life. I thrive on discovering the goals of others and finding ways to get them there. It's a lot like building sailboats - pulling lines out of thin air and making them real with any tool available, many of them improvised or built specifically for the task. On a similar level I'd like to humblebrag that this CV was composed with a template which uses a combination of Markdown, YAML, and Liquid languages before being converted to PDF - just because it's possible!
 
   I bring wisdom and experience from multiple fields including;
   * Freelance writing and website design
@@ -94,11 +94,11 @@ content:
         link: 
         quote: <h4>Where I see myself in this company;</h4>
         description: | # this will include new lines to allow paragraphs
-          * A team that embraces diversity
-          * A team that works with tricky issues and specialized tools
-          * A role that thrives on improvising and blazing trail
+          * Embracing diversity and change
+          * Working with tricky issues and specialized tools
+          * Improvising and blazing trail
           * Improving life for merchants and everyone else
-          * 
+          * Flexing my creativity and values
   - title: Shopify JSA Program
     layout: list
     content:
@@ -127,7 +127,7 @@ content:
         quote: 
         description: | # this will include new lines to allow paragraphs
           * 3 year apprenticeship under catamaran designer Richard Woods
-          * 9 years contracting, custom fabrication and repair all over western Canada
+          * 9 years contracting, custom fabrication and repair all over western Canada and beyond
           * Build and refit sailboats, yachts, work boats, research vessels
           * Hire crews as needed, deal with all aspects of business
   - title: Volunteering
@@ -157,7 +157,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I spend my downtime surfing, picking wild mushrooms, playing chess, and walking the beautiful forests and trails of the Kootenays with my dog. I'm passionate about reading, learning, healthy living, the environment, and social issues. I believe a better world is possible and I'm extremely happy to be here to see it unfold. I have a certificate in **Mental Health First-Aid**, I've hitchhiked most of North-America, I've done stand-up comedy, and I love writing elevator pitches!
+      I spend my downtime surfing, picking wild mushrooms, playing chess, and walking the beautiful forests and trails of the Kootenays with my dog. I'm passionate about reading, learning, healthy living, the environment, and social issues. I know a better world is possible and I'm extremely happy to be here to see it unfold. I have a certificate in **Mental Health First-Aid** as well as **Crisis Intervention**, I've hitchhiked most of North-America, I've done stand-up comedy, and I love writing elevator pitches!
 
 # Footer
 footer_show_references: false
