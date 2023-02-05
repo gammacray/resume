@@ -93,7 +93,7 @@ content:
   #        Short overview of the project (optional)
   #      description: | # this will include new lines to allow paragraphs
   #        Description about the work on/with the project
-    - title: Shopify Partner Support Specialist
+    - title: Shopify Partners Specialist
     layout: list
     content:
       - layout: right
