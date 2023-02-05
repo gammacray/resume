@@ -53,11 +53,18 @@ about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hello! In 2021 I made the jump from sailboat building to a digital skillset and a healthier lifestyle. In 2023 I'm upskilling again, moving towards more *proactive* work with more opportunity to flex some dev and building chops. I'm incredibly fond of working with people from around the world, from all walks of life. I thrive on discovering the goals of others and finding ways to get them there. It's a lot like building sailboats - pulling lines out of thin air and making them real with any tool available, many of them improvised or built specifically for the task. On a similar level I'd like to humblebrag that this CV was composed with a template which uses a combination of Markdown, YAML, and Liquid languages before being converted to PDF - just because it's possible!
+  Hello! In 2021 I made the jump from sailboat building to a digital skillset and a healthier lifestyle. In 2023 I'm upskilling again, moving towards more *proactive* work with more opportunity to flex some dev and building chops. I'm incredibly fond of working with people from around the world, from all walks of life. I thrive on discovering the goals of others and finding ways to get them there. It's a lot like building sailboats - pulling lines out of thin air and making them real with any tool available, many of them improvised or built specifically for the task. 
+  
+  I bring practical experience and knowledge in;
+  * GraphQL and REST API
+  * Some SQL and Python (stoked to grow in these)
+  * Mode, Splunk, Datadog, Zendesk, Slack, Okta, etc
+  * Have worked fully remote since 2019
+  * Linux, Winblows, MacOS, Android rooting/hacking
 
-  I bring wisdom and experience from multiple fields including;
-  * Freelance writing and static web design (Jekyll, Eleventy, etc)
-  * Sailboat building and repair
+  I bring broader wisdom and experience from multiple fields including;
+  * Freelance writing and static web design (Jekyll, Eleventy, Liquid, etc)
+  * Sailboat custom build and repair
   * Tiny-home construction
   * Semi-professional musician
   * Managing several meditation centers 
