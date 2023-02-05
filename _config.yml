@@ -53,21 +53,23 @@ about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hello! In 2021 I made the jump from sailboat building to a digital skillset and a healthier lifestyle. In 2023 I'm upskilling again, moving towards more *proactive* work with more opportunity to flex some dev and building chops. I'm incredibly fond of working with people from around the world, from all walks of life. I thrive on discovering the goals of others and finding ways to get them there. It's a lot like building sailboats - pulling lines out of thin air and making them real with any tool available, many of them improvised or built specifically for the task. 
+  Hello! In 2019 I made the jump from sailboat building to a digital skillset and a healthier lifestyle. In 2023 I'm upskilling again, moving towards more *proactive* work with more opportunity to flex some analytical and dev chops. I'm incredibly fond of working with people from around the world, from all walks of life. I thrive on discovering the goals of others and finding ways to get them there. Digital work is a lot like building sailboats - pulling lines out of thin air and making them real with any tool available, many of them improvised or built specifically for the task. 
   
-  I bring practical experience and knowledge in;
+  **I bring practical experience and knowledge in;**
   * GraphQL and REST API
-  * Some SQL and Python (stoked to grow in these)
+  * Some SQL and Python, node.js, React (stoked to grow in these)
+  * HTML, CSS, Liquid, YAML, CSV
   * Mode, Splunk, Datadog, Zendesk, Slack, Okta, etc
+  * Netlify, Git (Lab and Hub), Digital Ocean, AWS
   * Have worked fully remote since 2019
-  * Linux, Winblows, MacOS, Android rooting/hacking
+  * Linux, Winblows, MacOS, ChromeOS, Android
 
-  I bring broader wisdom and experience from multiple fields including;
-  * Freelance writing and static web design (Jekyll, Eleventy, Liquid, etc)
+  **I bring well-traveled wisdom and values from;**
+  * Freelance writing and static web design
   * Sailboat custom build and repair
   * Tiny-home construction
-  * Semi-professional musician
-  * Managing several meditation centers 
+  * Pretty darn good busker/musician
+  * Managed several meditation center kitchens 
   * Permaculture farming
   * Teaching ESL abroad
 
@@ -91,15 +93,32 @@ content:
   #        Short overview of the project (optional)
   #      description: | # this will include new lines to allow paragraphs
   #        Description about the work on/with the project
+    - title: Shopify Partner Support Specialist
+    layout: list
+    content:
+      - layout: right
+        title: Permanent Full-time
+        sub_title: Third-Party Dev Support
+        caption: February 2022 - present
+        link: 
+        quote: <h4>My current lead will say;</h4>
+        description: | # this will include new lines to allow paragraphs
+          * I routinely crush output metrics and QA scores and my Impact is high
+          * I learn specialized tools without much guidance (to make my own job easier and help my team)
+          * We support third-party app, theme, and front-end developers (as well as Merchants/end-users)
+          * We work with API deprecation cycles and product updates as they impact our Partners
+          * We work adjacent to and with teams such as Incident Response/Governance, API Support, App Review/Audit, Enterprise/Plus & Strategic
+          * I'm strong with technical issues as well as tricky human interactions
+          * I show up and advocate with intensity, honesty, and persistance
   - title: Shopify Core Support
     layout: list
     content:
       - layout: right
         title: Permanent Full-time
         sub_title: Support Advisor
-        caption: December 2021 - present
+        caption: December 2021 - February 2022
         link: 
-        quote: <h4>Where I see myself in this company;</h4>
+        quote: <h4>Moving up in this company;</h4>
         description: | # this will include new lines to allow paragraphs
           * Embracing diversity and change
           * Working with tricky issues and specialized tools
@@ -114,7 +133,7 @@ content:
         sub_title: Junior Support Advisor
         caption: February - November 2021
         link: 
-        quote: <h4>I believe my (JSA) lead will say;</h4>
+        quote: <h4>My former lead will say;</h4>
         description: | # this will include new lines to allow paragraphs
           * I'm self-aware and empathetic
           * I question process *a lot* and enjoy doing it
@@ -150,6 +169,7 @@ content:
           * Food and supply orders
           * Maintain FoodSafe protocols and practices
           * Routine maintenance and repairs
+          * Cook amazing food for starving meditators!
 
 
       - layout: right
@@ -164,7 +184,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I spend my downtime surfing, picking wild mushrooms, playing chess, and walking the beautiful forests and trails of the Kootenays with my dog. I'm passionate about reading, learning, healthy living, the environment, and social issues. I know a better world is possible and I'm extremely happy to be here to see it unfold. I have a certificate in **Mental Health First-Aid** as well as **Crisis Intervention**, I've hitchhiked most of North-America, I've done stand-up comedy, and I love writing elevator pitches!
+      I spend my downtime surfing, picking wild edibles, playing chess, and MTB'ing the beautiful trails and hotsprings of the Kootenays with my dog. I'm passionate about reading, learning, healthy living, the environment, and social issues. I'm a lifelong *tangent learner* and I love growth-oriented challenges. I have a certificate in **Mental Health First-Aid** as well as **Crisis Intervention**, I've hitchhiked most of North-America, I've done stand-up comedy, *and I love writing elevator pitches!*
 
 # Footer
 footer_show_references: false
