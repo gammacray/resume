@@ -103,7 +103,7 @@ content:
         link: 
         quote: <h4>My current lead will say;</h4>
         description: | # this will include new lines to allow paragraphs
-          * I routinely crush output metrics and QA scores and my Impact is high
+          * I routinely crush output metrics and QA scores and my Impact is high!
           * I learn specialized tools without much guidance (to make my own job easier and help my team)
           * We support third-party app, theme, and front-end developers (as well as Merchants/end-users)
           * We work with API deprecation cycles and product updates as they impact our Partners
