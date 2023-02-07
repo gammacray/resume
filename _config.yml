@@ -184,7 +184,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I spend my downtime surfing, picking wild edibles, playing chess, and MTB'ing the beautiful trails and hotsprings of the Kootenays with my dog. I'm passionate about reading, learning, healthy living, the environment, and social issues. I'm a lifelong *tangent learner* and I love growth-oriented challenges. I have a certificate in **Mental Health First-Aid** as well as **Crisis Intervention**, I've hitchhiked most of North-America, I've done stand-up comedy, *and I love writing elevator pitches!*
+      I spend my downtime surfing, picking wild edibles, playing chess, and MTB'ing the beautiful trails and hotsprings of the Kootenays with my dog. I'm passionate about reading, healthy living, the environment, and social issues. I'm a *tangent learner* and I love growth-oriented challenges. I have a certificate in **Mental Health First-Aid** as well as **Crisis Intervention**, I've hitchhiked most of North-America, I've done stand-up comedy, *and I love writing elevator pitches!*
 
 # Footer
 footer_show_references: false
