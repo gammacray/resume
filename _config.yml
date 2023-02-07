@@ -53,7 +53,7 @@ about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
 
-  Hello! In 2019 I made the jump from sailboat building to a digital skillset and a healthier lifestyle. In 2023 I'm upskilling again, moving towards more *proactive* work with more opportunity to flex some analytical and dev chops. I'm incredibly fond of working with people from around the world, from all walks of life. I thrive on discovering the goals of others and finding ways to get them there. Digital work is a lot like building sailboats - pulling lines out of thin air and making them real with any tool available, many of them improvised or built specifically for the task. 
+  Hello! In 2019 I made the jump from sailboat building to a digital skillset and healthier lifestyle. In 2023 I'm upskilling again, leaning into *proactive* work with more opportunity to flex my analytical and dev chops. I'm incredibly fond of working with people from around the world and all walks of life. I thrive on learning the goals of others and finding ways to get them there. Digital work is a lot like building sailboats - we pull lines out of thin air and make them real with any tool available, many improvised or built specifically for the task. 
   
   #### I bring practical experience and knowledge in;
   * GraphQL and REST API
@@ -62,7 +62,7 @@ about_content: | # this will include new lines to allow paragraphs
   * Mode, Splunk, Datadog, Zendesk, Slack, Okta, TIL
   * Netlify, Git (Lab and Hub), Digital Ocean, AWS, NTA
   * Have worked fully remote since 2019
-  * Linux, Winblows 3.1, MacOS, ChromeOS, Android
+  * Linux, Winblows 3.1, MacOS, ChromeOS, Android, Potato
 
   #### I bring well-traveled wisdom and values from;
   * Freelance writing and static web design
@@ -104,10 +104,10 @@ content:
         quote: <h4>My current lead will say;</h4>
         description: | # this will include new lines to allow paragraphs
           * I routinely crush output metrics and QA scores and my Impact is high!
-          * I learn specialized tools without much guidance because fun
+          * I learn specialized tools without much guidance because *I like them*
           * We support third-party app, theme, and front-end devs (also Merchants/end-users)
           * We work with API deprecation cycles and product updates as they impact Partners
-          * We work adjacent to/with teams like Incident Response, Governance, API Support, App Review/Audit, Enterprise & Strategic
+          * We work adjacent to teams like Incident Response, Governance, API Support, App Review/Audit, Enterprise & Strategic
           * I'm strong with tech issues and tricky human interactions
           * I show up and advocate with intensity, honesty, patience and persistance
   - title: Shopify Core Support
@@ -141,7 +141,7 @@ content:
           * I reflect deeply on my work, growth, energy levels and opportunities
           * I keep my values up front and find meaning in my work
           * I manage my time and projects well
-          * I make mistakes! (and own them)
+          * I make mistakes! And own them!
   - title: Trades Experience
     layout: list
     content:
