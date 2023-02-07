@@ -1,6 +1,6 @@
 # Site
 repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-favicon: images/favicon.ico
+### favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
@@ -12,7 +12,7 @@ email: onepathleft@protonmail.com
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
-website: onepathleft.com/resume
+### website: onepathleft.com/resume
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -58,7 +58,7 @@ about_content: | # this will include new lines to allow paragraphs
   I bring practical experience and knowledge in;
   * GraphQL and REST API
   * Some SQL and Python, node.js, React (stoked to grow in these)
-  * HTML, CSS, Liquid, YAML, CSV
+  * HTML, CSS, Liquid, YAML, Markdown
   * Mode, Splunk, Datadog, Zendesk, Slack, Okta, etc
   * Netlify, Git (Lab and Hub), Digital Ocean, AWS
   * Have worked fully remote since 2019
@@ -93,7 +93,7 @@ content:
   #        Short overview of the project (optional)
   #      description: | # this will include new lines to allow paragraphs
   #        Description about the work on/with the project
-  - title: Shopify Partners Specialist
+  - title: Shopify Partner Support Specialist
     layout: list
     content:
       - layout: right
@@ -104,12 +104,12 @@ content:
         quote: <h4>My current lead will say;</h4>
         description: | # this will include new lines to allow paragraphs
           * I routinely crush output metrics and QA scores and my Impact is high!
-          * I learn specialized tools without much guidance (to make my own job easier and help my team)
+          * I learn specialized tools without much guidance because fun
           * We support third-party app, theme, and front-end developers (as well as Merchants/end-users)
           * We work with API deprecation cycles and product updates as they impact our Partners
-          * We work adjacent to and with teams such as Incident Response/Governance, API Support, App Review/Audit, Enterprise/Plus & Strategic
-          * I'm strong with technical issues as well as tricky human interactions
-          * I show up and advocate with intensity, honesty, and persistance
+          * We work adjacent to/with teams like Incident Response/Governance, API Support, App Review/Audit, Enterprise & Strategic
+          * I'm strong with tech issues as well as tricky human interactions
+          * I show up and advocate with intensity, honesty, patience and persistance
   - title: Shopify Core Support
     layout: list
     content:
