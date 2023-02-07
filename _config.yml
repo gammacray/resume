@@ -99,7 +99,7 @@ content:
       - layout: right
         title: Permanent Full-time
         sub_title: Third-Party Dev Support
-        caption: February 2022 - present
+        caption: Feb 2022 - present
         link: 
         quote: <h4>My current lead will say;</h4>
         description: | # this will include new lines to allow paragraphs
@@ -116,7 +116,7 @@ content:
       - layout: right
         title: Permanent Full-time
         sub_title: Support Advisor
-        caption: December 2021 - February 2022
+        caption: Dec 2021 - Feb 2022
         link: 
         quote: <h4>Moving up in this company;</h4>
         description: | # this will include new lines to allow paragraphs
@@ -131,7 +131,7 @@ content:
       - layout: right
         title: Nine Month Gauntlet
         sub_title: Junior Support Advisor
-        caption: February - November 2021
+        caption: Feb - Nov 2021
         link: 
         quote: <h4>My former lead will say;</h4>
         description: | # this will include new lines to allow paragraphs
