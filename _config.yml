@@ -57,12 +57,12 @@ about_content: | # this will include new lines to allow paragraphs
   
   I bring practical experience and knowledge in;
   * GraphQL and REST API
-  * Some SQL and Python, node.js, React (stoked to grow in these)
-  * HTML, CSS, Liquid, YAML, Markdown
+  * Some SQL and Python, node.js, React (stoked to grow in these ELI5)
+  * HTML, CSS, Liquid, YAML, Markdown, TLDR
   * Mode, Splunk, Datadog, Zendesk, Slack, Okta, etc
-  * Netlify, Git (Lab and Hub), Digital Ocean, AWS
+  * Netlify, Git (Lab and Hub), Digital Ocean, AWS, NTA
   * Have worked fully remote since 2019
-  * Linux, Winblows, MacOS, ChromeOS, Android
+  * Linux, Winblows 3.1, MacOS, ChromeOS, Android
 
   I bring well-traveled wisdom and values from;
   * Freelance writing and static web design
@@ -105,10 +105,10 @@ content:
         description: | # this will include new lines to allow paragraphs
           * I routinely crush output metrics and QA scores and my Impact is high!
           * I learn specialized tools without much guidance because fun
-          * We support third-party app, theme, and front-end developers (as well as Merchants/end-users)
-          * We work with API deprecation cycles and product updates as they impact our Partners
+          * We support third-party app, theme, and front-end devs (also Merchants/end-users)
+          * We work with API deprecation cycles and product updates as they impact Partners
           * We work adjacent to/with teams like Incident Response/Governance, API Support, App Review/Audit, Enterprise & Strategic
-          * I'm strong with tech issues as well as tricky human interactions
+          * I'm strong with tech issues and tricky human interactions
           * I show up and advocate with intensity, honesty, patience and persistance
   - title: Shopify Core Support
     layout: list
@@ -121,8 +121,8 @@ content:
         quote: <h4>Moving up in this company;</h4>
         description: | # this will include new lines to allow paragraphs
           * Embracing diversity and change
-          * Working with tricky issues and specialized tools
-          * Improvising and blazing trail
+          * Deep-dive issues and specialized tools
+          * Improvising is my jam
           * Improving life for merchants and everyone else
           * Flexing my creativity and values
   - title: Shopify JSA Program
